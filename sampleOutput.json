@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Paris Hilton among users targeted in TikTok hack",
+      "description": "The video-sharing app told the BBC that a \"very limited\" number of accounts had been compromised.",
+      "url": "https://www.bbc.co.uk/news/articles/cl770d121gro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/270c/live/25258c00-22d9-11ef-a92b-415ad06a9e9b.jpg",
+      "publishedAt": "2024-06-05T10:22:15.481834Z",
+      "content": "TikTok says it is addressing a cyber-attack that targeted brands and celebrities, including Paris Hilton and CNN.\r\nHowever, the video-sharing app told the BBC that a \"very limited\" number of accounts… [+866 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Biden says asylum restrictions necessary to 'control border'",
+      "description": "Immigration is a top issue for many voters, and a possible threat to Biden's reelection chances.",
+      "url": "https://www.bbc.co.uk/news/articles/c7227y6nqzmo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/87a3/live/0c8e38a0-2314-11ef-a13a-0b8c563da930.jpg",
+      "publishedAt": "2024-06-05T10:22:12.9805378Z",
+      "content": "About a dozen advocates and Democratic lawmakers had their own press conference outside the US Capitol on Tuesday, criticising Mr Biden's decision. \r\nPramila Jayapal, the chair of the Congressional P… [+1348 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kanye West accuses former assistant of blackmail",
+      "description": "The star's lawyer describes claims of sexual harassment \"baseless\" and threatens to counter-sue.",
+      "url": "https://www.bbc.co.uk/news/articles/cy00r5vg4gvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/509a/live/dbd51070-230f-11ef-96c3-99f9322e70a9.jpg",
+      "publishedAt": "2024-06-05T09:37:19.5282762Z",
+      "content": "Pisciotta is believed to have worked for West from 2021 to 2022, initially on his fashion line before becoming his personal assistant on a salary of $1m (£780,000) per year.\r\nShe has alleged that, du… [+1229 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Alec and Hilaria Baldwin announce new family reality show",
+      "description": "The couple, who have seven children all under the age of 10, said The Baldwins will air on TLC in 2025.",
+      "url": "https://www.bbc.co.uk/news/articles/c4nn5zze5m0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e716/live/eb229a10-231a-11ef-b04e-375672a6fc86.png",
+      "publishedAt": "2024-06-05T09:07:22.7929425Z",
+      "content": "Cinematographer Halyna Hutchins, 42, was shot with a gun Mr Baldwin was using during a rehearsal on the set of Rust, which was being filmed in New Mexico.\r\nDirector Joel Souza was also wounded in the… [+805 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Heat wave brings dangerous weather to western US",
+      "description": "More than 34 million Americans in the western US are under excessive heat advisories this week.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlle2v2dpxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6f17/live/ae79c240-22a8-11ef-baa7-25d483663b8e.jpg",
+      "publishedAt": "2024-06-05T08:07:16.2549628Z",
+      "content": "Forecasts show temperatures could reach 42.2C (108F) across a wide swathe of California, from Sacramento to Bakersfield. \r\nSacramento surpassed 38C (100F) on Tuesday. Last year, California's capital … [+1870 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Election TV debate: Six takeaways as leaders clash",
+      "description": "Here's what you need to know from the first televised leaders' debate of the election campaign.",
+      "url": "https://www.bbc.co.uk/news/articles/cz55pm66lgko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd5f/live/01c72020-22ca-11ef-a13a-0b8c563da930.jpg",
+      "publishedAt": "2024-06-05T06:37:08.9657692Z",
+      "content": "At almost every opportunity, the prime minister was keen to make one claim in particular: that Labour would put up taxes by £2,000.\r\nThat's because a key attack line for the Tories is to say Labour i… [+457 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Pink Lady Food Photographer of the Year 2024 competition winners",
+      "description": "The image is on display in London, alongside all the finalists in the food photograper contest.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvvj20v5zyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8b01/live/a68f9ca0-22fb-11ef-baa7-25d483663b8e.jpg",
+      "publishedAt": "2024-06-05T06:22:18.9498547Z",
+      "content": "The image, which came first in the Champagne Taittinger Food for Celebration category, was taken in the rural area of Xiangshan, Zhejiang during preparations for the Spring Festival, also known as Ch… [+580 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Mass graves and body bags: al-Shifa hospital after Israel's withdrawal",
+      "description": "The BBC has gained insight into what al-Shifa hospital is like since Israeli forces withdrew.",
+      "url": "https://www.bbc.co.uk/news/articles/c511k1nqx81o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/803d/live/09803cf0-2272-11ef-a1f2-47207c8bf210.jpg",
+      "publishedAt": "2024-06-05T06:22:16.6211974Z",
+      "content": "Weve extracted martyrs, many of whom are decomposed and completely unidentifiable, a Palestinian Civil Defence worker, Rami Dababesh told us grimly on 8 May as he stood by a line of white plastic bod… [+2338 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US House votes to sanction ICC over Israel-Gaza arrest warrants",
+      "description": "The plan to punish ICC officials for seeking to arrest Israeli officials could split Joe Biden's Democrats.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5512l7yero",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c6ce/live/0fd84d70-22ba-11ef-a13a-0b8c563da930.jpg",
+      "publishedAt": "2024-06-05T04:52:12.3255219Z",
+      "content": "The bill's passage comes shortly after Mr Netanyahu was invited by US lawmakers to deliver a speech to Congress this summer, although the date of his speech has not been finalised.\r\nLast month, ICC c… [+2878 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Mexico election: Mayor killed after first woman elected leader",
+      "description": "The killing of Yolanda Sanchez comes just hours after a historic landslide victory for Mexico's first woman president.",
+      "url": "https://www.bbc.co.uk/news/articles/c166n3p6r49o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7b9e/live/e8ca5f00-2266-11ef-93a1-31ae1bc20741.jpg",
+      "publishedAt": "2024-06-04T13:07:19.2940801Z",
+      "content": "Yolanda Sánchez was ambushed by gunmen in the centre of Cotija, Michoacán, on Monday.\r\nLocal media say she was shot 19 times and died in hospital shortly after the attack. Her bodyguard was also kill… [+1186 chars]"
+    }
+  ]
+}
