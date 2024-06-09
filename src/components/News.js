@@ -85,7 +85,7 @@ function News(props) {
                 let info = {
                   title: item.title ? item.title : "No Title",
                   description: item.description ? item.description : "No Description",
-                  imageUrl: item.urlToImage ? item.urlToImage : "/noImage.png",
+                  imageUrl: item.urlToImage ? item.urlToImage : "./../assets/images/noImage.png",
                   newsUrl: item.url ? item.url : "No Url",
                   author: item.author ? item.author : "Unkown",
                   date: item.publishedAt ? new Date(item.publishedAt).toGMTString() : "Unknown Date",

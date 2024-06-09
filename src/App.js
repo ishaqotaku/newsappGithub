@@ -3,7 +3,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import News from "./components/News";
 import LoadingBar from "react-top-loading-bar";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   const channels = ["general", "business", "entertainment", "health", "science", "technology", "sports"];
@@ -14,7 +14,7 @@ function App() {
 
   const capitalizeFirst = (string) => string.charAt(0).toUpperCase() + string.slice(1);
   return (
-    <BrowserRouter>
+    <HashRouter>
         <div>
           <Navbar setCountry = {setCountry} country = {country} channels = {channels} capitalizeFirst={capitalizeFirst}/>
           <LoadingBar
@@ -42,7 +42,7 @@ function App() {
             })}
           </Routes>
         </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

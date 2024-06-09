@@ -15,7 +15,7 @@ function Navbar(props) {
     <nav className="navbar fixed-top navbar-expand-lg bg-primary" data-bs-theme="dark">
             <div className="container-fluid">
                 <a className="navbar-brand" href="/">
-                  <img src="/newsMonkey.png" alt="Logo" width="30" height="30" className="d-inline-block align-text-top"/>
+                  <img src={require("./../assets/images/newsMonkeyLogo.png")} alt="Logo" width="30" height="30" className="d-inline-block align-text-top"/>
                   NewsMonkey
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
