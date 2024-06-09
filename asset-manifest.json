@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newsappGithub/static/css/main.f855e6bc.css",
+    "main.js": "/newsappGithub/static/js/main.c7026433.js",
+    "static/js/453.b2157c12.chunk.js": "/newsappGithub/static/js/453.b2157c12.chunk.js",
+    "index.html": "/newsappGithub/index.html",
+    "main.f855e6bc.css.map": "/newsappGithub/static/css/main.f855e6bc.css.map",
+    "main.c7026433.js.map": "/newsappGithub/static/js/main.c7026433.js.map",
+    "453.b2157c12.chunk.js.map": "/newsappGithub/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c7026433.js"
+  ]
+}
